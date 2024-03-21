@@ -29,7 +29,7 @@ for(i=1; i<=y; i++){
 }
 
 for(i=1; i<= k; i++){
-    for(i=1; i<=y; i++){
+    for(i=1; i<=k; i++){
     printf("\nO %dº número impar é: %d", i, impar[i]);
     }
 
